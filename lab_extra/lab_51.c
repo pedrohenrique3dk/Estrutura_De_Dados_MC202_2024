@@ -1,44 +1,39 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
+#include<stdbool.h>
+#define TAM 10
+//verificando se todos os algarismos do número são unicos
+bool digitos_unicos(int num){
+    bool digitos_vistos[TAM] = { false };
 
-int main(void){
-    int N, M;
-    int um, d, u, i, c;
-    int decimal, centena;
-    int cont = 1;
-    printf("recebendo o valor N: ");
-    scanf("%d", &N);
-    printf("recebendo o valor M: ");
-    scanf("%d", &M);
-    printf("%d %d", N, M);
-    printf("\n");
-    for (i = N; i <= M; i++){
-        printf("%d\n", N);
-        N++;
-        if (M < 100){
-            d = (int)floor(N/10);
-            u = N - (d*10);
-            if (d != u){
-                cont++;
-            }
-        }else if (100 < M < 999){
-            c = (int)floor(N/100);
-            decimal = N - (c*100);
-            d = (int) floor(decimal/10);
-            u = decimal - (d*10);
-            if ((d != u) && (d != c) && (c != u)){
-                cont++;
-            }  
-        } else{
-            um = (int)floor(N/1000);
-            centena = N - (um*1000);
-            c = (int) floor(centena/100);
-            
-
-
+    //verificando cada digito do número
+    while(num > 0){
+        int digito = num % 10;
+        if(digitos_vistos[digito]){
+            return false; //Aqui o digito se repetiu
+        }
+        digitos_vistos[digito] = true;
+        num /= 10;
+    }
+    return true; //Aqui temos todos os digitos unicos
+}
+//Função para contar números com digitos unicos no intervalo [N, M]
+int contando_os_numeros(int N, int M){
+    int cont = 0;
+    for(int i = N; i <= M; i++){
+        if(digitos_unicos(i)){
+            cont++;
         }
     }
-    printf("%d", cont);
+    return cont;
+}
+int main(void){
+    int M, N;
+    //lendo as entradas
+    scanf("%d", &N);
+    scanf("%d", &M);
+    //contagem e impressão do resultado
+    printf("%d\n", contando_os_numeros(N, M));
     return 0;
 }
