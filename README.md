@@ -15,6 +15,7 @@
 <div align='center'>
 
 
+
 <img src="https://github.com/user-attachments/assets/2de1f2b6-2e2f-499f-9641-03f7dac20f8f" alt = "codigo" width="1200" height="350">
 
 </div>
@@ -83,9 +84,10 @@ https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/blob/main/lab_01/Lab_01.c"><img src="" alt = "codigo" width="400" height="250" max-width = 100%></a>  <a href="https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/tree/main/lab_01/imagens"><img src="" alt = "codigo" width="400" height="250" max-width=100%></a>
+<a href="https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/blob/main/lab_01/Lab_01.c"><img src="https://github.com/user-attachments/assets/87238413-0711-41db-b0d5-30a2e09eadbf" alt = "codigo" width="400" height="250" max-width = 100%></a>  <a href="https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/tree/main/lab_01/imagens"><img src="https://github.com/user-attachments/assets/72f0ff52-d886-430f-8734-61290204aff7" alt = "codigo" width="400" height="250" max-width=100%></a>
 
 ---
+
 
 </div>
 
@@ -147,7 +149,7 @@ https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/blob/main/lab_02/Lab_02.c"><img src="" alt = "codigo" width="400" height="250" max-width = 100%></a>  <a href="https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/tree/main/lab_02/imagens"><img src="" alt = "codigo" width="400" height="250" max-width=100%></a>
+<a href="https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/blob/main/lab_02/Lab_02.c"><img src="https://github.com/user-attachments/assets/84515c01-2c03-4ced-aca1-a5ef73ae686d" alt = "codigo" width="400" height="250" max-width = 100%></a>  <a href="https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/tree/main/lab_02/imagens"><img src="https://github.com/user-attachments/assets/b46a6dfc-a86a-43d6-af58-c519dc491da1" alt = "codigo" width="400" height="250" max-width=100%></a>
 
 ---
 
@@ -234,7 +236,7 @@ Este projeto usas as seguintes tecnologias e linguagens de programação
 ## Como Utilizar 🚀
 Você pode rodar esse código no seu próprio IDE se quiser, basta copiar o código pelo link abaixo ou clicar no GIF na caixa CÓDIGO DO PROJETO para ser redirecionado ao código. 
 >[!TIP]
->Copie o código, crie um arquivo.c ou arquivo.cpp no seu IDE e cole o código para começar a cadastrar seus clientes.
+>Copie o código, crie um arquivo.c  no seu IDE e cole o código para cumeçar a executar no seu terminal.
 
 
 ```bash
@@ -259,9 +261,11 @@ https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/blob/main/lab_03/Lab_03.c"><img src="" alt = "codigo" width="400" height="250" max-width = 100%></a>  <a href=""><img src="" alt = "codigo" width="400" height="250" max-width=100%></a>
+<a href="https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/blob/main/lab_03/Lab_03.c"><img src="https://github.com/user-attachments/assets/711f8bce-0030-401c-be39-d13788aed24b" alt = "codigo" width="400" height="250" max-width = 100%></a>  <a href="https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024/tree/main/lab_03/imagens"><img src="https://github.com/user-attachments/assets/e71af62e-9936-4b15-9f01-1fc91ab4d83e" alt = "codigo" width="400" height="250" max-width=100%></a>
 
 ---
+
+
 
 
 </div>
