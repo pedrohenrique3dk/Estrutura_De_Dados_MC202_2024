@@ -161,8 +161,6 @@ https://github.com/pedrohenrique3dk/Estrutura_De_Dados_MC202_2024
 
  # O truque √n (para máximos)
 
-**Tempo Limite:** 1 s  
-**Limite de Memória:** 128 MB
 
 Em vários problemas que envolvem vetores é possível fazer uma otimização do tempo de execução simples de implementar, usando alguma memória extra.
 
